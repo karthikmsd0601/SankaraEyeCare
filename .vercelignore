@@ -3,3 +3,5 @@ README.md
 .claude
 sankara-logo.png
 sankara-logo-transparent.png
+.env*
+.vercel
