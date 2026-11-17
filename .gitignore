@@ -1,0 +1,8 @@
+# Local tooling
+.claude/
+.vercel/
+node_modules/
+
+# Working copies of the logo (the page uses sankara-logo-hd.png)
+sankara-logo.png
+sankara-logo-transparent.png
